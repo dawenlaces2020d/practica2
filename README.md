@@ -12,5 +12,15 @@ Ingrid Muñoz
 Carla Burguete Martínez
 Alejandro Manzanos
 Jorge Mateo
+<<<<<<< HEAD
 Noman Haseeb
 Luis Miguel García
+David Fuentes
+Luis Rodellar
+Ruben Bitrian
+Jorge Barrantes
+Alvaro Corcoles
+Mario Jiménez
+=======
+Rafael Oteo Sanz
+>>>>>>> Añadido nombres
